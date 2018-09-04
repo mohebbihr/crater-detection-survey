@@ -1,0 +1,4 @@
+Total error in position: 32497.1548419 , Total error in radius: 
+53397Trues, TP: 488 , Falses, FP: 219 , FN: 
+112f1-measure: 0.74675 , detection percentage: 0.81333 , branching factor: 0.44877 , quality percentage: 0.59585 
+precision: 0.69024 , recall: 0.81333  
